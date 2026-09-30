@@ -1,9 +1,9 @@
-# SALES-PERFORMANCE-ANALYSIS-IN-POWER-BI
+# ⭐SALES-PERFORMANCE-ANALYSIS-IN-POWER-BI
 Interactive Power BI dashboard analyzing sales performance, budget variance, product and customer performance, country-level sales, and monthly sales trend for Jaydee Enterprise.
-# PROJECT OVERVIEW
+# ⭐PROJECT OVERVIEW
 The dashboard provides a comprehensive view of business performance by analyzing sales, budget, product performance, customer performance, country-level sales, category performance, and monthly sales trends.
 The objective of this project is to transform raw business data into meaningful insights that can support **data-driven decision-making and business performance monitoring.
-# PROJECT OBJECTIVES
+# ⭐PROJECT OBJECTIVES
 The main objectives of this project were to:
 - Analyze overall sales performance against budget.
 - Identify the highest-performing product categories.
@@ -14,20 +14,20 @@ The main objectives of this project were to:
 - Compare sales and budget by category.
 - Identify areas of strong and weak business performance.
 - Present business insights through an interactive dashboard.
-# TOOLS USED
+# ⭐TOOLS USED
 - Microsoft Power BI
 - Power Query
 - DAX
 - Microsoft Excel
 - Data Visualization
 - Data Cleaning & Transformation.
-# KEY PERFORMANCE INDICATORS
+# ⭐KEY PERFORMANCE INDICATORS
 The dashboard provides an overview of business performance through the following key performance indicators:
 - Total Budget: $16.87M
 - Total Sales: $29.31M
 - Total Sales Max: $3.58K
 - Total Tax: $2.34M
-# KEY ANALYSIS
+# ⭐KEY ANALYSIS
 The dashboard also analyzes:
 - Sales performance by country
 - Monthly sales trends
@@ -35,7 +35,7 @@ The dashboard also analyzes:
 - Top 5 products by sales
 - Top 5 customers by sales
 - Year-over-year filtering from 2014–2017
-#  KEY INSIGHTS
+#  ⭐KEY INSIGHTS
 Some of the major insights identified from the analysis include:
 - Overall sales exceeded the total budget.
 - The Bikes category was the strongest-performing category by sales.
@@ -43,7 +43,7 @@ Some of the major insights identified from the analysis include:
 - The Mountain-200 product series appeared prominently among the top-performing products.
 - Sales performance varied across months, showing periods of growth and decline.
 - Category-level analysis revealed differences between budget allocation and actual sales performance.
-# RECOMMENDATIONS
+# ⭐RECOMMENDATIONS
   Based on the analysis, the following areas could be considered:
  # Focus on high-performing product categories
  The strong performance of the Bikes category suggests that management could further investigate demand, inventory levels, pricing, and marketing opportunities within this category.
@@ -55,7 +55,7 @@ Some of the major insights identified from the analysis include:
    Products with consistently strong sales could receive additional attention through inventory planning, promotions, and targeted marketing.
 # Monitor sales trends
    Monthly sales trends should be reviewed regularly to identify changes in demand and support better forecasting and planning.
-# PROJECT WORKFLOW
+# ⭐PROJECT WORKFLOW
 The project followed a typical data analysis workflow:
 Raw Data
    ↓
@@ -74,7 +74,7 @@ Dashboard Development
 Business Insights
    ↓
 Recommendations
-# SKILLS DEMONSTRATED
+# ⭐SKILLS DEMONSTRATED
 This project demonstrates practical experience in:
 - Data cleaning
 - Data transformation
@@ -89,7 +89,7 @@ This project demonstrates practical experience in:
 - Trend analysis
 - Data storytelling
 - Business recommendations
-# ABOUT THE PROJECT AUTHOR
+# ⭐ABOUT THE PROJECT AUTHOR
 I am an aspiring Data Analyst developing practical skills in data analysis, visualization, business intelligence, and reporting.
 My current areas of focus include:
 Excel
@@ -99,3 +99,4 @@ Data Visualization
 Business Analysis
 HR Analytics
 I am passionate about using data to uncover insights, solve business problems, and support informed decision-making.
+# ⭐Thank you for exploring this project!
