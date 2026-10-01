@@ -89,7 +89,7 @@ This project demonstrates practical experience in:
 - Trend analysis
 - Data storytelling
 - Business recommendations
-# ⭐ABOUT THE PROJECT AUTHOR
+# 👩‍💻ABOUT THE PROJECT AUTHOR
 I am an aspiring Data Analyst developing practical skills in data analysis, visualization, business intelligence, and reporting.
 My current areas of focus include:
 Excel
